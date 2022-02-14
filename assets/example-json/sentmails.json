@@ -1,0 +1,323 @@
+{
+  "result": "success",
+  "data": {
+    "current_page": 1,
+    "data": [
+      {
+        "id": 1985,
+        "subject": null,
+        "content": "<p><br></p><div class=\"ql-kacis\">              <div class=\"miniimza5\" contenteditable=\"false\">\n  <div class=\"row no-gutters pt-5 align-items-center\">\n    <div class=\"col-4\">\n      <div class=\"row no-gutters\">\n        <div class=\"col-12\">\n          <span class=\"d-block font--prompt fs--11rem fsw--500 text-dark pl-2\">\n            Emre Emreo\u011flu\n          </span>\n          <span class=\"d-block font--prompt fs--08rem fsw--200 text-dark pl-2 mb-2\">\n            Memur\n          </span>\n        </div>\n      </div>\n    </div>\n    <div class=\"col-4 text-center\">\n      <img src=\"/assets/img/expo-logo.png\" class=\"img-fluid temp4LogoSize pt-2\" alt=\"\">\n    </div>\n    <div class=\"col-4\">\n      <div class=\"row no-gutters\">\n        <div class=\"col-12\">\n          <div class=\"row no-gutters pt-1\">\n            <div class=\"col-lg-12 text-center \">\n              <span class=\"d-block font--prompt fs--07rem fsw--500 text-white text-center pt-1\">\n                MU\u011eLA\n              </span>\n              <span class=\"d-block font--prompt fs--07rem fsw--500 text-white text-center\">\n                Expo Yaz\u0131l\u0131m\n              </span>\n            </div>\n          </div>\n        </div>\n      </div>\n    </div>\n  </div>\n  <div class=\"row no-gutters\">\n    <div class=\"col-lg-12\">\n      <div class=\"row no-gutters font--prompt fs--06rem fsw--300 text-dark pl-2 mb-1\">\n        <div class=\"col-12\">T: 905442321367</div>\n      </div>\n      <div class=\"row no-gutters font--prompt fs--06rem fsw--300 text-dark pl-2 mb-1\">\n        <div class=\"col-12\">\n          E: emremu\u011fla@avmmerkezi.net\n        </div>\n      </div>\n      <div class=\"row no-gutters font--prompt fs--06rem fsw--300 text-dark pl-2\">\n        <div class=\"col-12 \">\n          W: emremu\u011fla.avmmerkezi.net\n        </div>\n      </div>\n    </div>\n  </div>\n</div></div>",
+        "mail_signature_id": null,
+        "updated_at": "2021-09-04T12:55:01.000000Z",
+        "deleted_at": null,
+        "is_sent": null,
+        "sender_id": 21,
+        "mail_type_id": 1,
+        "created_at": "2021-09-04T12:54:51.000000Z",
+        "sent_date": "04/09/2021 12:55:01",
+        "web_contact_form_id": null,
+        "sender": {
+          "id": 21,
+          "first_name": "Emre",
+          "last_name": "Emreo\u011flu",
+          "userdetail": {
+            "id": 22,
+            "user_id": 21,
+            "picture": "https://s3.eu-central-1.amazonaws.com/static-content-vexpo/expo/profilecontent/photos/EvV1Ll4x2W8I4bBWU1WT2ODhVHZRGgRuzQR4XVfM.png",
+            "full_institution_name": null,
+            "country": null
+          },
+          "web": {
+            "id": 1380,
+            "user_id": 21,
+            "expo_mail": "emremu\u011fla",
+            "expo_mail_domain": "avmmerkezi.net"
+          }
+        },
+        "receivers": [
+          {
+            "id": 884,
+            "mail_id": 1985,
+            "user_id": 33,
+            "user": {
+              "id": 33,
+              "first_name": "onur",
+              "last_name": "gurol",
+              "web": {
+                "id": 1370,
+                "user_id": 33,
+                "expo_mail": "eda12",
+                "expo_mail_domain": null
+              }
+            }
+          }
+        ],
+        "ccs": [],
+        "bccs": [],
+        "attachments": [
+          {
+            "id": 392,
+            "mail_id": 1985,
+            "cloudfiles_id": 1967,
+            "name": "cv21",
+            "size": 96680,
+            "mime_type": "application/pdf",
+            "file_url": "https://s3.eu-central-1.amazonaws.com/static-content-vexpo/expo/cloudfiles/Sdk26uGXAKqpJplOZ2ygV2UU6ilP2ste11GQC1Qd.pdf"
+          }
+        ],
+        "mailuserdetails": [
+          {
+            "id": 577,
+            "user_id": 21,
+            "mail_id": 1985,
+            "is_read": true,
+            "is_deleted": false,
+            "mail_folder_id": null
+          }
+        ]
+      },
+      {
+        "id": 1977,
+        "subject": "Ynt: qweqwe",
+        "content": "<p><br></p><hr><p><u>onur gurol &lt;eda12@null&gt; 24/06/2021 11:29:05 tarihinde g\u00f6nderdi:</u></p><p>qwewqe</p><div class=\"ql-kacis\">              <div class=\"dikeyimza1\" contenteditable=\"false\">\n  <div class=\"row no-gutters\">\n    <div class=\"col-6  pt-1\">\n      <span class=\"d-block font--prompt fs--11rem fsw--500 text-dark text-left\">\n        Emre Emreo\u011flu\n      </span>\n      <span class=\"d-block font--prompt fs--08rem fsw--200 text-dark text-left mb-2\">\n        Memur\n      </span>\n    </div>\n    <div class=\"col-6\">\n      <img src=\"/assets/img/expo-logo.png\" class=\"img-fluid px-4 pt-2\" alt=\"\">\n    </div>\n  </div>\n  <div class=\"row no-gutters temp1Middle align-items-center\">\n    <div class=\"col-lg-12\">\n      <div class=\"row no-gutters font--prompt fs--08rem fsw--300 text-dark\">\n        <div class=\"col-1\">E:</div>\n        <div class=\"col-11\">emremu\u011fla@avmmerkezi.net</div>\n      </div>\n      <div class=\"row no-gutters font--prompt fs--08rem fsw--300 text-dark\">\n        <div class=\"col-1\">W:</div>\n        <div class=\"col-11\">\n          emremu\u011fla.avmmerkezi.net\n        </div>\n      </div>\n      <div class=\"row no-gutters font--prompt fs--08rem fsw--300 text-dark\">\n        <div class=\"col-1\">T: </div>\n        <div class=\"col-11\">905442321367</div>\n      </div>\n    </div>\n  </div>\n  <div class=\"row no-gutters\">\n    <div class=\"col-lg-12\">\n      <span class=\"d-block font--prompt  fsw--300 text-dark altTextHeight pt-1\">\n        Bu mesaj ve i\u00e7erikleri mesajda g\u00f6nderildi\u011fi belirtilen\n        ki\u015fi ve ki\u015filere \u00f6zeldir ve gizlidir. Her t\u00fcrl\u00fc i\u00e7erik\n        kopyalanmas\u0131, izinsiz \u00e7o\u011falt\u0131lmas\u0131 ve/veya da\u011f\u0131t\u0131lmas\u0131\n        yasakt\u0131r. Expo Markam\u0131z ve Vexpo Ticari \u015eirketimiz, bu\n        mesaj\u0131n size de\u011fi\u015fikli\u011fe u\u011frayarak veya gecikmeli olarak\n        gelmesinden, b\u00fct\u00fcnl\u00fc\u011f\u00fcn\u00fcn korunamamas\u0131ndan veya herhangi\n        bir teknik sorun gere\u011fi bilgisayar\u0131n\u0131za verebilece\u011fi\n        herhangi bir zarardan sorumlu tutulamaz. Bu postay\u0131 hata\n        ile ald\u0131\u011f\u0131m\u0131z\u0131 d\u00fc\u015f\u00fcnmeniz halinde l\u00fctfen derhal siliniz ve\n        g\u00f6ndericiyi bilgilendiriniz. Bu posta i\u00e7eri\u011finde herhangi\n        bir yasal elektronik imza kullan\u0131lmamaktad\u0131r. Yazd\u0131rmadan\n        \u00f6nce l\u00fctfen \u00e7evresel sorumlulu\u011funuzu yeniden\n        de\u011ferlendiriniz.\n      </span>\n      <span class=\"d-block font--prompt  fsw--300 text-dark altTextHeight\">\n        This communication contains information from Expo Trade\n        Mark and Vexpo Company that may be confidential. Except\n        for personal use by the intended recipient, or as\n        expressly authorized by the sender, any person who\n        receives this information is prohibited from disclosing,\n        copying, distributing, and/or using it. If you have\n        received this communication in error,please immediately\n        delete it and all copies, and promptly notify the sender.\n        Nothing in this communication is intended to operate as an\n        elektronic signature under applicable law. Think and\n        re-consider of your envoiremental responsibility before\n        printing.\n      </span>\n    </div>\n  </div>\n</div></div>",
+        "mail_signature_id": null,
+        "updated_at": "2021-08-30T08:59:51.000000Z",
+        "deleted_at": null,
+        "is_sent": null,
+        "sender_id": 21,
+        "mail_type_id": 1,
+        "created_at": "2021-08-30T08:53:17.000000Z",
+        "sent_date": "30/08/2021 08:59:51",
+        "web_contact_form_id": null,
+        "sender": {
+          "id": 21,
+          "first_name": "Emre",
+          "last_name": "Emreo\u011flu",
+          "userdetail": {
+            "id": 22,
+            "user_id": 21,
+            "picture": "https://s3.eu-central-1.amazonaws.com/static-content-vexpo/expo/profilecontent/photos/EvV1Ll4x2W8I4bBWU1WT2ODhVHZRGgRuzQR4XVfM.png",
+            "full_institution_name": null,
+            "country": null
+          },
+          "web": {
+            "id": 1380,
+            "user_id": 21,
+            "expo_mail": "emremu\u011fla",
+            "expo_mail_domain": "avmmerkezi.net"
+          }
+        },
+        "receivers": [
+          {
+            "id": 881,
+            "mail_id": 1977,
+            "user_id": 33,
+            "user": {
+              "id": 33,
+              "first_name": "onur",
+              "last_name": "gurol",
+              "web": {
+                "id": 1370,
+                "user_id": 33,
+                "expo_mail": "eda12",
+                "expo_mail_domain": null
+              }
+            }
+          }
+        ],
+        "ccs": [],
+        "bccs": [],
+        "attachments": [
+          {
+            "id": 385,
+            "mail_id": 1977,
+            "cloudfiles_id": 1913,
+            "name": "Screenshot from 2021-08-29 09-45-54.png",
+            "size": 253247,
+            "mime_type": "image/png",
+            "file_url": "https://s3.eu-central-1.amazonaws.com/static-content-vexpo/expo/cloudfiles/jOnzPkQOYSju40Q85o0Lgpu6fZ13j45MVau4X67n.png"
+          }
+        ],
+        "mailuserdetails": [
+          {
+            "id": 575,
+            "user_id": 21,
+            "mail_id": 1977,
+            "is_read": true,
+            "is_deleted": false,
+            "mail_folder_id": null
+          }
+        ]
+      },
+      {
+        "id": 1975,
+        "subject": "asdasdj\u015fqwjd\u015f",
+        "content": "<p>asdlaksjd\u015fljkqw asdasdas dlkj\u015fajsd \u015fjqew</p><div class=\"ql-kacis\">              <div class=\"dikeyimza1\" contenteditable=\"false\">\n  <div class=\"row no-gutters\">\n    <div class=\"col-6  pt-1\">\n      <span class=\"d-block font--prompt fs--11rem fsw--500 text-dark text-left\">\n        Emre Emreo\u011flu\n      </span>\n      <span class=\"d-block font--prompt fs--08rem fsw--200 text-dark text-left mb-2\">\n        Memur\n      </span>\n    </div>\n    <div class=\"col-6\">\n      <img src=\"/assets/img/expo-logo.png\" class=\"img-fluid px-4 pt-2\" alt=\"\">\n    </div>\n  </div>\n  <div class=\"row no-gutters temp1Middle align-items-center\">\n    <div class=\"col-lg-12\">\n      <div class=\"row no-gutters font--prompt fs--08rem fsw--300 text-dark\">\n        <div class=\"col-1\">E:</div>\n        <div class=\"col-11\">emremu\u011fla@avmmerkezi.net</div>\n      </div>\n      <div class=\"row no-gutters font--prompt fs--08rem fsw--300 text-dark\">\n        <div class=\"col-1\">W:</div>\n        <div class=\"col-11\">\n          emremu\u011fla.avmmerkezi.net\n        </div>\n      </div>\n      <div class=\"row no-gutters font--prompt fs--08rem fsw--300 text-dark\">\n        <div class=\"col-1\">T: </div>\n        <div class=\"col-11\">905442321367</div>\n      </div>\n    </div>\n  </div>\n  <div class=\"row no-gutters\">\n    <div class=\"col-lg-12\">\n      <span class=\"d-block font--prompt  fsw--300 text-dark altTextHeight pt-1\">\n        Bu mesaj ve i\u00e7erikleri mesajda g\u00f6nderildi\u011fi belirtilen\n        ki\u015fi ve ki\u015filere \u00f6zeldir ve gizlidir. Her t\u00fcrl\u00fc i\u00e7erik\n        kopyalanmas\u0131, izinsiz \u00e7o\u011falt\u0131lmas\u0131 ve/veya da\u011f\u0131t\u0131lmas\u0131\n        yasakt\u0131r. Expo Markam\u0131z ve Vexpo Ticari \u015eirketimiz, bu\n        mesaj\u0131n size de\u011fi\u015fikli\u011fe u\u011frayarak veya gecikmeli olarak\n        gelmesinden, b\u00fct\u00fcnl\u00fc\u011f\u00fcn\u00fcn korunamamas\u0131ndan veya herhangi\n        bir teknik sorun gere\u011fi bilgisayar\u0131n\u0131za verebilece\u011fi\n        herhangi bir zarardan sorumlu tutulamaz. Bu postay\u0131 hata\n        ile ald\u0131\u011f\u0131m\u0131z\u0131 d\u00fc\u015f\u00fcnmeniz halinde l\u00fctfen derhal siliniz ve\n        g\u00f6ndericiyi bilgilendiriniz. Bu posta i\u00e7eri\u011finde herhangi\n        bir yasal elektronik imza kullan\u0131lmamaktad\u0131r. Yazd\u0131rmadan\n        \u00f6nce l\u00fctfen \u00e7evresel sorumlulu\u011funuzu yeniden\n        de\u011ferlendiriniz.\n      </span>\n      <span class=\"d-block font--prompt  fsw--300 text-dark altTextHeight\">\n        This communication contains information from Expo Trade\n        Mark and Vexpo Company that may be confidential. Except\n        for personal use by the intended recipient, or as\n        expressly authorized by the sender, any person who\n        receives this information is prohibited from disclosing,\n        copying, distributing, and/or using it. If you have\n        received this communication in error,please immediately\n        delete it and all copies, and promptly notify the sender.\n        Nothing in this communication is intended to operate as an\n        elektronic signature under applicable law. Think and\n        re-consider of your envoiremental responsibility before\n        printing.\n      </span>\n    </div>\n  </div>\n</div></div>",
+        "mail_signature_id": null,
+        "updated_at": "2021-08-30T08:21:11.000000Z",
+        "deleted_at": null,
+        "is_sent": null,
+        "sender_id": 21,
+        "mail_type_id": 1,
+        "created_at": "2021-08-30T08:20:17.000000Z",
+        "sent_date": "30/08/2021 08:21:11",
+        "web_contact_form_id": null,
+        "sender": {
+          "id": 21,
+          "first_name": "Emre",
+          "last_name": "Emreo\u011flu",
+          "userdetail": {
+            "id": 22,
+            "user_id": 21,
+            "picture": "https://s3.eu-central-1.amazonaws.com/static-content-vexpo/expo/profilecontent/photos/EvV1Ll4x2W8I4bBWU1WT2ODhVHZRGgRuzQR4XVfM.png",
+            "full_institution_name": null,
+            "country": null
+          },
+          "web": {
+            "id": 1380,
+            "user_id": 21,
+            "expo_mail": "emremu\u011fla",
+            "expo_mail_domain": "avmmerkezi.net"
+          }
+        },
+        "receivers": [
+          {
+            "id": 876,
+            "mail_id": 1975,
+            "user_id": 1501,
+            "user": {
+              "id": 1501,
+              "first_name": "Alp",
+              "last_name": "Tahta",
+              "web": {
+                "id": 1328,
+                "user_id": 1501,
+                "expo_mail": "tyrell02",
+                "expo_mail_domain": null
+              }
+            }
+          },
+          {
+            "id": 877,
+            "mail_id": 1975,
+            "user_id": 1485,
+            "user": {
+              "id": 1485,
+              "first_name": "Mehmet",
+              "last_name": "G\u00fcrbo\u011fa",
+              "web": {
+                "id": 1340,
+                "user_id": 1485,
+                "expo_mail": "ioreilly",
+                "expo_mail_domain": null
+              }
+            }
+          }
+        ],
+        "ccs": [],
+        "bccs": [],
+        "attachments": [],
+        "mailuserdetails": [
+          {
+            "id": 573,
+            "user_id": 21,
+            "mail_id": 1975,
+            "is_read": true,
+            "is_deleted": false,
+            "mail_folder_id": null
+          }
+        ]
+      },
+      {
+        "id": 1945,
+        "subject": "\u0130lt: qweqwe",
+        "content": "<p><br></p><hr><p><u>onur gurol &lt;eda12@example.com&gt; 24/06/2021 11:29:05 tarihinde g\u00f6nderdi:</u></p><p>qwewqe</p><div class=\"ql-kacis\">              <div class=\"dikeyimza1\" contenteditable=\"false\">\n  <div class=\"row no-gutters\">\n    <div class=\"col-6  pt-1\">\n      <span class=\"d-block font--prompt fs--11rem fsw--500 text-dark text-left\">\n        Emre Emreo\u011flu\n      </span>\n      <span class=\"d-block font--prompt fs--08rem fsw--200 text-dark text-left mb-2\">\n        Memur\n      </span>\n    </div>\n    <div class=\"col-6\">\n      <img src=\"/assets/img/expo-logo.png\" class=\"img-fluid px-4 pt-2\" alt=\"\">\n    </div>\n  </div>\n  <div class=\"row no-gutters temp1Middle align-items-center\">\n    <div class=\"col-lg-12\">\n      <div class=\"row no-gutters font--prompt fs--08rem fsw--300 text-dark\">\n        <div class=\"col-1\">E:</div>\n        <div class=\"col-11\">olin20@example.net</div>\n      </div>\n      <div class=\"row no-gutters font--prompt fs--08rem fsw--300 text-dark\">\n        <div class=\"col-1\">W:</div>\n        <div class=\"col-11\">\n          Oklahoma.hotmail.com\n        </div>\n      </div>\n      <div class=\"row no-gutters font--prompt fs--08rem fsw--300 text-dark\">\n        <div class=\"col-1\">T: </div>\n        <div class=\"col-11\">905442321367</div>\n      </div>\n    </div>\n  </div>\n  <div class=\"row no-gutters\">\n    <div class=\"col-lg-12\">\n      <span class=\"d-block font--prompt  fsw--300 text-dark altTextHeight pt-1\">\n        Bu mesaj ve i\u00e7erikleri mesajda g\u00f6nderildi\u011fi belirtilen\n        ki\u015fi ve ki\u015filere \u00f6zeldir ve gizlidir. Her t\u00fcrl\u00fc i\u00e7erik\n        kopyalanmas\u0131, izinsiz \u00e7o\u011falt\u0131lmas\u0131 ve/veya da\u011f\u0131t\u0131lmas\u0131\n        yasakt\u0131r. Expo Markam\u0131z ve Vexpo Ticari \u015eirketimiz, bu\n        mesaj\u0131n size de\u011fi\u015fikli\u011fe u\u011frayarak veya gecikmeli olarak\n        gelmesinden, b\u00fct\u00fcnl\u00fc\u011f\u00fcn\u00fcn korunamamas\u0131ndan veya herhangi\n        bir teknik sorun gere\u011fi bilgisayar\u0131n\u0131za verebilece\u011fi\n        herhangi bir zarardan sorumlu tutulamaz. Bu postay\u0131 hata\n        ile ald\u0131\u011f\u0131m\u0131z\u0131 d\u00fc\u015f\u00fcnmeniz halinde l\u00fctfen derhal siliniz ve\n        g\u00f6ndericiyi bilgilendiriniz. Bu posta i\u00e7eri\u011finde herhangi\n        bir yasal elektronik imza kullan\u0131lmamaktad\u0131r. Yazd\u0131rmadan\n        \u00f6nce l\u00fctfen \u00e7evresel sorumlulu\u011funuzu yeniden\n        de\u011ferlendiriniz.\n      </span>\n      <span class=\"d-block font--prompt  fsw--300 text-dark altTextHeight\">\n        This communication contains information from Expo Trade\n        Mark and Vexpo Company that may be confidential. Except\n        for personal use by the intended recipient, or as\n        expressly authorized by the sender, any person who\n        receives this information is prohibited from disclosing,\n        copying, distributing, and/or using it. If you have\n        received this communication in error,please immediately\n        delete it and all copies, and promptly notify the sender.\n        Nothing in this communication is intended to operate as an\n        elektronic signature under applicable law. Think and\n        re-consider of your envoiremental responsibility before\n        printing.\n      </span>\n    </div>\n  </div>\n</div></div>",
+        "mail_signature_id": null,
+        "updated_at": "2021-06-24T13:02:04.000000Z",
+        "deleted_at": null,
+        "is_sent": null,
+        "sender_id": 21,
+        "mail_type_id": 1,
+        "created_at": "2021-06-24T12:53:09.000000Z",
+        "sent_date": "24/06/2021 13:02:04",
+        "web_contact_form_id": null,
+        "sender": {
+          "id": 21,
+          "first_name": "Emre",
+          "last_name": "Emreo\u011flu",
+          "userdetail": {
+            "id": 22,
+            "user_id": 21,
+            "picture": "https://s3.eu-central-1.amazonaws.com/static-content-vexpo/expo/profilecontent/photos/EvV1Ll4x2W8I4bBWU1WT2ODhVHZRGgRuzQR4XVfM.png",
+            "full_institution_name": null,
+            "country": null
+          },
+          "web": {
+            "id": 1380,
+            "user_id": 21,
+            "expo_mail": "emremu\u011fla",
+            "expo_mail_domain": "avmmerkezi.net"
+          }
+        },
+        "receivers": [
+          {
+            "id": 865,
+            "mail_id": 1945,
+            "user_id": 1517,
+            "user": {
+              "id": 1517,
+              "first_name": "MEHEMT",
+              "last_name": "G\u00dcRBOGA",
+              "web": {
+                "id": 1350,
+                "user_id": 1517,
+                "expo_mail": "nichole.pacocha",
+                "expo_mail_domain": null
+              }
+            }
+          }
+        ],
+        "ccs": [
+          {
+            "id": 157,
+            "mail_id": 1945,
+            "user_id": 33,
+            "user": {
+              "id": 33,
+              "first_name": "onur",
+              "last_name": "gurol",
+              "web": {
+                "id": 1370,
+                "user_id": 33,
+                "expo_mail": "eda12",
+                "expo_mail_domain": null
+              }
+            }
+          }
+        ],
+        "bccs": [],
+        "attachments": [],
+        "mailuserdetails": [
+          {
+            "id": 563,
+            "user_id": 21,
+            "mail_id": 1945,
+            "is_read": true,
+            "is_deleted": false,
+            "mail_folder_id": null
+          }
+        ]
+      }
+    ],
+    "first_page_url": "http://192.168.1.74:8000/v1/mail/sent?page=1",
+    "from": 1,
+    "last_page": 1,
+    "last_page_url": "http://192.168.1.74:8000/v1/mail/sent?page=1",
+    "next_page_url": null,
+    "path": "http://192.168.1.74:8000/v1/mail/sent",
+    "per_page": 10,
+    "prev_page_url": null,
+    "to": 4,
+    "total": 4
+  }
+}

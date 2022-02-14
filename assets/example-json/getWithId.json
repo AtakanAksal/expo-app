@@ -1,0 +1,155 @@
+{
+  "result": "success",
+  "cinsiyetAll": [
+    { "genderid": null, "gender_type": null, "gender_type_count": 5677 },
+    { "genderid": 1, "gender_type": "Erkek", "gender_type_count": 4028 },
+    { "genderid": 3, "gender_type": "Gizli", "gender_type_count": 11 },
+    { "genderid": 2, "gender_type": "Kad\u0131n", "gender_type_count": 939 }
+  ],
+  "accountTypeAll": [
+    { "userroleid": null, "user_type": null, "role_count": 5947 },
+    {
+      "userroleid": 4,
+      "user_type": "Sivil Toplum Kurulu\u015f \u00dcyeli\u011fi",
+      "role_count": 62
+    },
+    { "userroleid": 2, "user_type": "Ticari \u00dcyelik", "role_count": 12 },
+    { "userroleid": 1, "user_type": "Bireysel \u00dcyelik", "role_count": 4634 }
+  ],
+  "ulke": [
+    {
+      "countryid": null,
+      "country_code": null,
+      "country_name": null,
+      "country_count": 5572
+    },
+    {
+      "countryid": 22,
+      "country_code": "BZ",
+      "country_name": "Belize",
+      "country_count": 12
+    },
+    {
+      "countryid": 15,
+      "country_code": "AZ",
+      "country_name": "Azerbaijan",
+      "country_count": 9
+    },
+    {
+      "countryid": 4,
+      "country_code": "AS",
+      "country_name": "American Samoa",
+      "country_count": 42
+    },
+    {
+      "countryid": 10,
+      "country_code": "AR",
+      "country_name": "Argentina",
+      "country_count": 14
+    },
+    {
+      "countryid": 6,
+      "country_code": "AO",
+      "country_name": "Angola",
+      "country_count": 59
+    },
+    {
+      "countryid": 14,
+      "country_code": "AT",
+      "country_name": "Austria",
+      "country_count": 15
+    },
+    {
+      "countryid": 66,
+      "country_code": "EE",
+      "country_name": "Estonia",
+      "country_count": 1
+    },
+    {
+      "countryid": 13,
+      "country_code": "AU",
+      "country_name": "Australia",
+      "country_count": 14
+    },
+    {
+      "countryid": 2,
+      "country_code": "AL",
+      "country_name": "Albania",
+      "country_count": 2
+    },
+    {
+      "countryid": 1,
+      "country_code": "AF",
+      "country_name": "Afghanistan",
+      "country_count": 6
+    },
+    {
+      "countryid": 106,
+      "country_code": "JP",
+      "country_name": "Japan",
+      "country_count": 12
+    },
+    {
+      "countryid": 18,
+      "country_code": "BD",
+      "country_name": "Bangladesh",
+      "country_count": 1
+    },
+    {
+      "countryid": 11,
+      "country_code": "AM",
+      "country_name": "Armenia",
+      "country_count": 4
+    },
+    {
+      "countryid": 3,
+      "country_code": "DZ",
+      "country_name": "Algeria",
+      "country_count": 1
+    },
+    {
+      "countryid": 17,
+      "country_code": "BH",
+      "country_name": "Bahrain",
+      "country_count": 10
+    },
+    {
+      "countryid": 212,
+      "country_code": "TR",
+      "country_name": "Turkey",
+      "country_count": 4868
+    },
+    {
+      "countryid": 16,
+      "country_code": "BS",
+      "country_name": "Bahamas",
+      "country_count": 5
+    },
+    {
+      "countryid": 12,
+      "country_code": "AW",
+      "country_name": "Aruba",
+      "country_count": 6
+    },
+    {
+      "countryid": 191,
+      "country_code": "SB",
+      "country_name": "Solomon Islands",
+      "country_count": 2
+    }
+  ],
+  "sectors": [
+    {
+      "sectorid": null,
+      "sector_count": 9764,
+      "sector_type": 0,
+      "sector_name": null
+    },
+    {
+      "sectorid": 2,
+      "sector_count": 891,
+      "sector_type": 891,
+      "sector_name": "DEN\u0130ZC\u0130L\u0130K"
+    }
+  ]
+}

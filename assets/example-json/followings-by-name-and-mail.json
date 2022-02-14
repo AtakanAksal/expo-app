@@ -1,0 +1,38 @@
+{
+  "result": "success",
+  "userList": {
+    "current_page": 1,
+    "data": [
+      {
+        "id": 56,
+        "first_name": null,
+        "last_name": null,
+        "expo_mail": "emreo\u011flu",
+        "expo_mail_domain": "avmmerkezi.com",
+        "country_id": 212,
+        "picture": "https://s3.eu-central-1.amazonaws.com/static-content-vexpo/expo/profilecontent/photos/Z43VONMq9hQD4jyO7DosxWKGNPxEZ4yEqQvIVbu9.png",
+        "binarycode": "TR"
+      },
+      {
+        "id": 33,
+        "first_name": "onur",
+        "last_name": "gurol",
+        "expo_mail": "eda12",
+        "expo_mail_domain": null,
+        "country_id": 212,
+        "picture": "https://static-content-vexpo.s3.eu-central-1.amazonaws.com/reactsite/assets/img/profilePic.jpg",
+        "binarycode": "TR"
+      }
+    ],
+    "first_page_url": "http://192.168.1.74:8000/v1/mail/followings-by-name-and-mail?page=1",
+    "from": 1,
+    "last_page": 1,
+    "last_page_url": "http://192.168.1.74:8000/v1/mail/followings-by-name-and-mail?page=1",
+    "next_page_url": null,
+    "path": "http://192.168.1.74:8000/v1/mail/followings-by-name-and-mail",
+    "per_page": 10,
+    "prev_page_url": null,
+    "to": 2,
+    "total": 2
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "result": "success",
+  "mail_folders": [
+    { "id": 91, "name": "qwe", "mailuserdetails": [] },
+    { "id": 93, "name": "test", "mailuserdetails": [] }
+  ]
+}

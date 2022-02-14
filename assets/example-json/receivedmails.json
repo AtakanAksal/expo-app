@@ -1,0 +1,394 @@
+{
+  "result": "success",
+  "data": {
+    "current_page": 1,
+    "data": [
+      {
+        "id": 1925,
+        "subject": "deneme mail ba\u015fl\u0131\u011f\u0131",
+        "content": "<p>qweqweqwewe</p><div class=\"ql-kacis\"><div class=\"miniimza1\" contenteditable=\"false\">\n  <div class=\"row no-gutters\">\n    <div class=\"col-lg-12\">\n      <div class=\"row no-gutters mb-3\">\n        <div class=\"col-9\">\n          <span class=\"d-block font--prompt fs--11rem fsw--500 text-dark text-left\">\n            onur gurol\n          </span>\n          <span class=\"d-block font--prompt fs--08rem fsw--200 text-dark text-left\">\n            null\n          </span>\n          <span class=\"d-block font--prompt fs--09rem fsw--400 text-dark text-left\">\n            Lighthouse\n          </span>\n        </div>\n        <div class=\"col-3\">\n          <img src=\"/assets/img/expo-logo.png\" class=\"img-fluid\" alt=\"\">\n        </div>\n      </div>\n      <div class=\"row no-gutters font--prompt fs--08rem fsw--300 text-white pl-2 mb-1\">\n        <div class=\"col-12\">T: null</div>\n      </div>\n      <div class=\"row no-gutters font--prompt fs--08rem fsw--300 text-white pl-2 mb-1\">\n        <div class=\"col-12\">\n          E: eda12@example.com\n        </div>\n      </div>\n      <div class=\"row no-gutters font--prompt fs--08rem fsw--300 text-white pl-2\">\n        <div class=\"col-12 \">\n          W: Michigan.spinka.biz\n        </div>\n      </div>\n    </div>\n  </div>\n</div></div>",
+        "mail_signature_id": null,
+        "updated_at": "2021-06-24T11:28:57.000000Z",
+        "deleted_at": null,
+        "is_sent": null,
+        "sender_id": 33,
+        "mail_type_id": 1,
+        "created_at": "2021-06-24T11:28:51.000000Z",
+        "sent_date": "24/06/2021 11:28:57",
+        "web_contact_form_id": null,
+        "sender": {
+          "id": 33,
+          "first_name": "onur",
+          "last_name": "gurol",
+          "userdetail": {
+            "id": 34,
+            "user_id": 33,
+            "picture": "https://static-content-vexpo.s3.eu-central-1.amazonaws.com/reactsite/assets/img/profilePic.jpg",
+            "full_institution_name": null,
+            "country": null
+          },
+          "web": {
+            "id": 1370,
+            "user_id": 33,
+            "expo_mail": "eda12",
+            "expo_mail_domain": null
+          }
+        },
+        "receivers": [
+          {
+            "id": 852,
+            "mail_id": 1925,
+            "user_id": 21,
+            "user": {
+              "id": 21,
+              "first_name": "Emre",
+              "last_name": "Emreo\u011flu",
+              "web": {
+                "id": 1380,
+                "user_id": 21,
+                "expo_mail": "emremu\u011fla",
+                "expo_mail_domain": "avmmerkezi.net"
+              }
+            }
+          }
+        ],
+        "ccs": [],
+        "bccs": [],
+        "mailuserdetails": [
+          {
+            "id": 557,
+            "user_id": 21,
+            "mail_id": 1925,
+            "is_read": true,
+            "is_deleted": false,
+            "mail_folder_id": null
+          }
+        ],
+        "attachments": []
+      },
+      {
+        "id": 1922,
+        "subject": "denem mail ba\u015fl\u011f\u0131",
+        "content": "<p>bir ba\u015fl\u0131k i\u00e7eril</p><div class=\"ql-kacis\"><div class=\"miniimza1\" contenteditable=\"false\">\n  <div class=\"row no-gutters\">\n    <div class=\"col-lg-12\">\n      <div class=\"row no-gutters mb-3\">\n        <div class=\"col-9\">\n          <span class=\"d-block font--prompt fs--11rem fsw--500 text-dark text-left\">\n            onur gurol\n          </span>\n          <span class=\"d-block font--prompt fs--08rem fsw--200 text-dark text-left\">\n            null\n          </span>\n          <span class=\"d-block font--prompt fs--09rem fsw--400 text-dark text-left\">\n            Lighthouse\n          </span>\n        </div>\n        <div class=\"col-3\">\n          <img src=\"/assets/img/expo-logo.png\" class=\"img-fluid\" alt=\"\">\n        </div>\n      </div>\n      <div class=\"row no-gutters font--prompt fs--08rem fsw--300 text-white pl-2 mb-1\">\n        <div class=\"col-12\">T: null</div>\n      </div>\n      <div class=\"row no-gutters font--prompt fs--08rem fsw--300 text-white pl-2 mb-1\">\n        <div class=\"col-12\">\n          E: eda12@example.com\n        </div>\n      </div>\n      <div class=\"row no-gutters font--prompt fs--08rem fsw--300 text-white pl-2\">\n        <div class=\"col-12 \">\n          W: Michigan.spinka.biz\n        </div>\n      </div>\n    </div>\n  </div>\n</div></div>",
+        "mail_signature_id": null,
+        "updated_at": "2021-06-24T11:25:25.000000Z",
+        "deleted_at": null,
+        "is_sent": null,
+        "sender_id": 33,
+        "mail_type_id": 1,
+        "created_at": "2021-06-24T11:25:07.000000Z",
+        "sent_date": "24/06/2021 11:25:25",
+        "web_contact_form_id": null,
+        "sender": {
+          "id": 33,
+          "first_name": "onur",
+          "last_name": "gurol",
+          "userdetail": {
+            "id": 34,
+            "user_id": 33,
+            "picture": "https://static-content-vexpo.s3.eu-central-1.amazonaws.com/reactsite/assets/img/profilePic.jpg",
+            "full_institution_name": null,
+            "country": null
+          },
+          "web": {
+            "id": 1370,
+            "user_id": 33,
+            "expo_mail": "eda12",
+            "expo_mail_domain": null
+          }
+        },
+        "receivers": [
+          {
+            "id": 850,
+            "mail_id": 1922,
+            "user_id": 21,
+            "user": {
+              "id": 21,
+              "first_name": "Emre",
+              "last_name": "Emreo\u011flu",
+              "web": {
+                "id": 1380,
+                "user_id": 21,
+                "expo_mail": "emremu\u011fla",
+                "expo_mail_domain": "avmmerkezi.net"
+              }
+            }
+          }
+        ],
+        "ccs": [],
+        "bccs": [],
+        "mailuserdetails": [
+          {
+            "id": 552,
+            "user_id": 21,
+            "mail_id": 1922,
+            "is_read": true,
+            "is_deleted": false,
+            "mail_folder_id": null
+          }
+        ],
+        "attachments": []
+      },
+      {
+        "id": 1920,
+        "subject": "dosya y\u00fcklenmi\u015f",
+        "content": "<p>qweqwewe</p><div class=\"ql-kacis\"><div class=\"miniimza1\" contenteditable=\"false\">\n  <div class=\"row no-gutters\">\n    <div class=\"col-lg-12\">\n      <div class=\"row no-gutters mb-3\">\n        <div class=\"col-9\">\n          <span class=\"d-block font--prompt fs--11rem fsw--500 text-dark text-left\">\n            onur gurol\n          </span>\n          <span class=\"d-block font--prompt fs--08rem fsw--200 text-dark text-left\">\n            null\n          </span>\n          <span class=\"d-block font--prompt fs--09rem fsw--400 text-dark text-left\">\n            Lighthouse\n          </span>\n        </div>\n        <div class=\"col-3\">\n          <img src=\"/assets/img/expo-logo.png\" class=\"img-fluid\" alt=\"\">\n        </div>\n      </div>\n      <div class=\"row no-gutters font--prompt fs--08rem fsw--300 text-white pl-2 mb-1\">\n        <div class=\"col-12\">T: null</div>\n      </div>\n      <div class=\"row no-gutters font--prompt fs--08rem fsw--300 text-white pl-2 mb-1\">\n        <div class=\"col-12\">\n          E: eda12@example.com\n        </div>\n      </div>\n      <div class=\"row no-gutters font--prompt fs--08rem fsw--300 text-white pl-2\">\n        <div class=\"col-12 \">\n          W: Michigan.spinka.biz\n        </div>\n      </div>\n    </div>\n  </div>\n</div></div>",
+        "mail_signature_id": null,
+        "updated_at": "2021-06-24T11:23:10.000000Z",
+        "deleted_at": null,
+        "is_sent": null,
+        "sender_id": 33,
+        "mail_type_id": 1,
+        "created_at": "2021-06-24T11:22:34.000000Z",
+        "sent_date": "24/06/2021 11:23:10",
+        "web_contact_form_id": null,
+        "sender": {
+          "id": 33,
+          "first_name": "onur",
+          "last_name": "gurol",
+          "userdetail": {
+            "id": 34,
+            "user_id": 33,
+            "picture": "https://static-content-vexpo.s3.eu-central-1.amazonaws.com/reactsite/assets/img/profilePic.jpg",
+            "full_institution_name": null,
+            "country": null
+          },
+          "web": {
+            "id": 1370,
+            "user_id": 33,
+            "expo_mail": "eda12",
+            "expo_mail_domain": null
+          }
+        },
+        "receivers": [
+          {
+            "id": 849,
+            "mail_id": 1920,
+            "user_id": 21,
+            "user": {
+              "id": 21,
+              "first_name": "Emre",
+              "last_name": "Emreo\u011flu",
+              "web": {
+                "id": 1380,
+                "user_id": 21,
+                "expo_mail": "emremu\u011fla",
+                "expo_mail_domain": "avmmerkezi.net"
+              }
+            }
+          }
+        ],
+        "ccs": [
+          {
+            "id": 155,
+            "mail_id": 1920,
+            "user_id": 1501,
+            "user": {
+              "id": 1501,
+              "first_name": "Alp",
+              "last_name": "Tahta",
+              "web": {
+                "id": 1328,
+                "user_id": 1501,
+                "expo_mail": "tyrell02",
+                "expo_mail_domain": null
+              }
+            }
+          }
+        ],
+        "bccs": [],
+        "mailuserdetails": [
+          {
+            "id": 549,
+            "user_id": 21,
+            "mail_id": 1920,
+            "is_read": false,
+            "is_deleted": false,
+            "mail_folder_id": null
+          }
+        ],
+        "attachments": [
+          {
+            "id": 373,
+            "mail_id": 1920,
+            "cloudfiles_id": 1119,
+            "name": "EXPO_Bilgi_Guncelleme_Formu.pdf",
+            "size": 158477,
+            "mime_type": "application/pdf",
+            "file_url": "https://s3.eu-central-1.amazonaws.com/static-content-vexpo/expo/cloudfiles/4Wo2s3cAcnembY9G7STtWkXGxBfZIK4QEeh3X0KM.pdf"
+          }
+        ]
+      },
+      {
+        "id": 1918,
+        "subject": "deneme mail ba\u015fl\u0131\u011f\u0131",
+        "content": "<p>deneme mail i\u00e7eri\u011fi</p><div class=\"ql-kacis\"><div class=\"miniimza1\" contenteditable=\"false\">\n  <div class=\"row no-gutters\">\n    <div class=\"col-lg-12\">\n      <div class=\"row no-gutters mb-3\">\n        <div class=\"col-9\">\n          <span class=\"d-block font--prompt fs--11rem fsw--500 text-dark text-left\">\n            onur gurol\n          </span>\n          <span class=\"d-block font--prompt fs--08rem fsw--200 text-dark text-left\">\n            null\n          </span>\n          <span class=\"d-block font--prompt fs--09rem fsw--400 text-dark text-left\">\n            Lighthouse\n          </span>\n        </div>\n        <div class=\"col-3\">\n          <img src=\"/assets/img/expo-logo.png\" class=\"img-fluid\" alt=\"\">\n        </div>\n      </div>\n      <div class=\"row no-gutters font--prompt fs--08rem fsw--300 text-white pl-2 mb-1\">\n        <div class=\"col-12\">T: null</div>\n      </div>\n      <div class=\"row no-gutters font--prompt fs--08rem fsw--300 text-white pl-2 mb-1\">\n        <div class=\"col-12\">\n          E: eda12@example.com\n        </div>\n      </div>\n      <div class=\"row no-gutters font--prompt fs--08rem fsw--300 text-white pl-2\">\n        <div class=\"col-12 \">\n          W: Michigan.spinka.biz\n        </div>\n      </div>\n    </div>\n  </div>\n</div></div>",
+        "mail_signature_id": null,
+        "updated_at": "2021-06-24T11:21:26.000000Z",
+        "deleted_at": null,
+        "is_sent": null,
+        "sender_id": 33,
+        "mail_type_id": 1,
+        "created_at": "2021-06-24T11:20:42.000000Z",
+        "sent_date": "24/06/2021 11:21:26",
+        "web_contact_form_id": null,
+        "sender": {
+          "id": 33,
+          "first_name": "onur",
+          "last_name": "gurol",
+          "userdetail": {
+            "id": 34,
+            "user_id": 33,
+            "picture": "https://static-content-vexpo.s3.eu-central-1.amazonaws.com/reactsite/assets/img/profilePic.jpg",
+            "full_institution_name": null,
+            "country": null
+          },
+          "web": {
+            "id": 1370,
+            "user_id": 33,
+            "expo_mail": "eda12",
+            "expo_mail_domain": null
+          }
+        },
+        "receivers": [
+          {
+            "id": 847,
+            "mail_id": 1918,
+            "user_id": 21,
+            "user": {
+              "id": 21,
+              "first_name": "Emre",
+              "last_name": "Emreo\u011flu",
+              "web": {
+                "id": 1380,
+                "user_id": 21,
+                "expo_mail": "emremu\u011fla",
+                "expo_mail_domain": "avmmerkezi.net"
+              }
+            }
+          }
+        ],
+        "ccs": [
+          {
+            "id": 154,
+            "mail_id": 1918,
+            "user_id": 1501,
+            "user": {
+              "id": 1501,
+              "first_name": "Alp",
+              "last_name": "Tahta",
+              "web": {
+                "id": 1328,
+                "user_id": 1501,
+                "expo_mail": "tyrell02",
+                "expo_mail_domain": null
+              }
+            }
+          }
+        ],
+        "bccs": [
+          {
+            "id": 149,
+            "mail_id": 1918,
+            "user_id": 1517,
+            "user": {
+              "id": 1517,
+              "first_name": "MEHEMT",
+              "last_name": "G\u00dcRBOGA",
+              "web": {
+                "id": 1350,
+                "user_id": 1517,
+                "expo_mail": "nichole.pacocha",
+                "expo_mail_domain": null
+              }
+            }
+          }
+        ],
+        "mailuserdetails": [
+          {
+            "id": 543,
+            "user_id": 21,
+            "mail_id": 1918,
+            "is_read": false,
+            "is_deleted": false,
+            "mail_folder_id": null
+          }
+        ],
+        "attachments": []
+      },
+      {
+        "id": 1916,
+        "subject": "deneme mail ba\u015fl\u0131\u011f\u0131",
+        "content": "<p>deneme mail i\u00e7eri\u011fi </p><div class=\"ql-kacis\"><div class=\"miniimza1\" contenteditable=\"false\">\n  <div class=\"row no-gutters\">\n    <div class=\"col-lg-12\">\n      <div class=\"row no-gutters mb-3\">\n        <div class=\"col-9\">\n          <span class=\"d-block font--prompt fs--11rem fsw--500 text-dark text-left\">\n            onur gurol\n          </span>\n          <span class=\"d-block font--prompt fs--08rem fsw--200 text-dark text-left\">\n            null\n          </span>\n          <span class=\"d-block font--prompt fs--09rem fsw--400 text-dark text-left\">\n            Lighthouse\n          </span>\n        </div>\n        <div class=\"col-3\">\n          <img src=\"/assets/img/expo-logo.png\" class=\"img-fluid\" alt=\"\">\n        </div>\n      </div>\n      <div class=\"row no-gutters font--prompt fs--08rem fsw--300 text-white pl-2 mb-1\">\n        <div class=\"col-12\">T: null</div>\n      </div>\n      <div class=\"row no-gutters font--prompt fs--08rem fsw--300 text-white pl-2 mb-1\">\n        <div class=\"col-12\">\n          E: eda12@example.com\n        </div>\n      </div>\n      <div class=\"row no-gutters font--prompt fs--08rem fsw--300 text-white pl-2\">\n        <div class=\"col-12 \">\n          W: Michigan.spinka.biz\n        </div>\n      </div>\n    </div>\n  </div>\n</div></div>",
+        "mail_signature_id": null,
+        "updated_at": "2021-06-24T10:24:12.000000Z",
+        "deleted_at": null,
+        "is_sent": null,
+        "sender_id": 33,
+        "mail_type_id": 1,
+        "created_at": "2021-06-24T10:23:57.000000Z",
+        "sent_date": "24/06/2021 10:24:12",
+        "web_contact_form_id": null,
+        "sender": {
+          "id": 33,
+          "first_name": "onur",
+          "last_name": "gurol",
+          "userdetail": {
+            "id": 34,
+            "user_id": 33,
+            "picture": "https://static-content-vexpo.s3.eu-central-1.amazonaws.com/reactsite/assets/img/profilePic.jpg",
+            "full_institution_name": null,
+            "country": null
+          },
+          "web": {
+            "id": 1370,
+            "user_id": 33,
+            "expo_mail": "eda12",
+            "expo_mail_domain": null
+          }
+        },
+        "receivers": [
+          {
+            "id": 846,
+            "mail_id": 1916,
+            "user_id": 21,
+            "user": {
+              "id": 21,
+              "first_name": "Emre",
+              "last_name": "Emreo\u011flu",
+              "web": {
+                "id": 1380,
+                "user_id": 21,
+                "expo_mail": "emremu\u011fla",
+                "expo_mail_domain": "avmmerkezi.net"
+              }
+            }
+          }
+        ],
+        "ccs": [],
+        "bccs": [],
+        "mailuserdetails": [
+          {
+            "id": 541,
+            "user_id": 21,
+            "mail_id": 1916,
+            "is_read": false,
+            "is_deleted": false,
+            "mail_folder_id": null
+          }
+        ],
+        "attachments": []
+      }
+    ],
+    "first_page_url": "http://192.168.1.74:8000/v1/mail/received?page=1",
+    "from": 1,
+    "last_page": 1,
+    "last_page_url": "http://192.168.1.74:8000/v1/mail/received?page=1",
+    "next_page_url": null,
+    "path": "http://192.168.1.74:8000/v1/mail/received",
+    "per_page": 10,
+    "prev_page_url": null,
+    "to": 5,
+    "total": 5
+  }
+}

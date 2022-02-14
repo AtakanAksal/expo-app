@@ -1,0 +1,429 @@
+{
+  "result": "success",
+  "visitors": [
+    {
+      "id": 5974,
+      "user_id": 61,
+      "expo_id": 53,
+      "hall_id": 11,
+      "booth_id": 62,
+      "time_difference_in_seconds": 16,
+      "socket_id": "QsSe4TiPE7zNLyWDAAAd",
+      "visit_start_date": "2021-05-19 12:30:20",
+      "visit_end_date": "2021-05-19 12:30:36",
+      "visitor_type": 2,
+      "country_id": 212,
+      "gender_id": 1,
+      "guest_name": null,
+      "booth": {
+        "id": 62,
+        "name": "Expo",
+        "boothcontent": { "booth_id": 62, "template_positionname": "B1" }
+      },
+      "hall": { "id": 11, "name": "DEMO SALONU" },
+      "expo": { "id": 53, "name": "DEMO FUARI" },
+      "user": {
+        "id": 61,
+        "username": "Yunus",
+        "userrole_id": 1,
+        "gender_id": 1,
+        "birth_date": null,
+        "userdetail": {
+          "id": 59,
+          "country_id": 212,
+          "user_id": 61,
+          "name": "Yunus",
+          "picture": "https://s3.eu-central-1.amazonaws.com/static-content-vexpo/expo/profilecontent/photos/XeanlVICbbw6MuEshYE4gNlBwaisjRwXtZb2xoQT.png",
+          "full_institution_name": null,
+          "country": {
+            "countryid": 212,
+            "binarycode": "TR",
+            "countryname": "Turkey"
+          }
+        },
+        "gender": { "id": 1, "type": "Erkek" },
+        "userrole": { "id": 1, "user_type": "Bireysel \u00dcyelik" }
+      }
+    },
+    {
+      "id": 6060,
+      "user_id": 61,
+      "expo_id": 53,
+      "hall_id": 11,
+      "booth_id": 62,
+      "time_difference_in_seconds": null,
+      "socket_id": "OaBzN7334WssjgMRAAAP",
+      "visit_start_date": "2021-05-20 11:50:07",
+      "visit_end_date": null,
+      "visitor_type": 2,
+      "country_id": 212,
+      "gender_id": 1,
+      "guest_name": null,
+      "booth": {
+        "id": 62,
+        "name": "Expo",
+        "boothcontent": { "booth_id": 62, "template_positionname": "B1" }
+      },
+      "hall": { "id": 11, "name": "DEMO SALONU" },
+      "expo": { "id": 53, "name": "DEMO FUARI" },
+      "user": {
+        "id": 61,
+        "username": "Yunus",
+        "userrole_id": 1,
+        "gender_id": 1,
+        "birth_date": null,
+        "userdetail": {
+          "id": 59,
+          "country_id": 212,
+          "user_id": 61,
+          "name": "Yunus",
+          "picture": "https://s3.eu-central-1.amazonaws.com/static-content-vexpo/expo/profilecontent/photos/XeanlVICbbw6MuEshYE4gNlBwaisjRwXtZb2xoQT.png",
+          "full_institution_name": null,
+          "country": {
+            "countryid": 212,
+            "binarycode": "TR",
+            "countryname": "Turkey"
+          }
+        },
+        "gender": { "id": 1, "type": "Erkek" },
+        "userrole": { "id": 1, "user_type": "Bireysel \u00dcyelik" }
+      }
+    },
+    {
+      "id": 6073,
+      "user_id": 21,
+      "expo_id": 53,
+      "hall_id": 11,
+      "booth_id": 62,
+      "time_difference_in_seconds": 6254,
+      "socket_id": "QBf0VwlOjkN7iz-eAAAL",
+      "visit_start_date": "2021-05-20 12:09:55",
+      "visit_end_date": "2021-05-20 13:54:09",
+      "visitor_type": 2,
+      "country_id": 212,
+      "gender_id": 2,
+      "guest_name": null,
+      "booth": {
+        "id": 62,
+        "name": "Expo",
+        "boothcontent": { "booth_id": 62, "template_positionname": "B1" }
+      },
+      "hall": { "id": 11, "name": "DEMO SALONU" },
+      "expo": { "id": 53, "name": "DEMO FUARI" },
+      "user": {
+        "id": 21,
+        "username": "vexpoemre",
+        "userrole_id": 1,
+        "gender_id": 2,
+        "birth_date": null,
+        "userdetail": {
+          "id": 22,
+          "country_id": 212,
+          "user_id": 21,
+          "name": "Emre Emreo\u011flu",
+          "picture": "https://s3.eu-central-1.amazonaws.com/static-content-vexpo/expo/profilecontent/photos/EvV1Ll4x2W8I4bBWU1WT2ODhVHZRGgRuzQR4XVfM.png",
+          "full_institution_name": null,
+          "country": {
+            "countryid": 212,
+            "binarycode": "TR",
+            "countryname": "Turkey"
+          }
+        },
+        "gender": { "id": 2, "type": "Kad\u0131n" },
+        "userrole": { "id": 1, "user_type": "Bireysel \u00dcyelik" }
+      }
+    },
+    {
+      "id": 6159,
+      "user_id": 61,
+      "expo_id": 53,
+      "hall_id": 11,
+      "booth_id": -1,
+      "time_difference_in_seconds": 217,
+      "socket_id": "jOCiFrZdThKTrZzGAAAk",
+      "visit_start_date": "2021-05-21 13:40:41",
+      "visit_end_date": "2021-05-21 13:44:18",
+      "visitor_type": 1,
+      "country_id": 212,
+      "gender_id": 1,
+      "guest_name": null,
+      "booth": null,
+      "hall": { "id": 11, "name": "DEMO SALONU" },
+      "expo": { "id": 53, "name": "DEMO FUARI" },
+      "user": {
+        "id": 61,
+        "username": "Yunus",
+        "userrole_id": 1,
+        "gender_id": 1,
+        "birth_date": null,
+        "userdetail": {
+          "id": 59,
+          "country_id": 212,
+          "user_id": 61,
+          "name": "Yunus",
+          "picture": "https://s3.eu-central-1.amazonaws.com/static-content-vexpo/expo/profilecontent/photos/XeanlVICbbw6MuEshYE4gNlBwaisjRwXtZb2xoQT.png",
+          "full_institution_name": null,
+          "country": {
+            "countryid": 212,
+            "binarycode": "TR",
+            "countryname": "Turkey"
+          }
+        },
+        "gender": { "id": 1, "type": "Erkek" },
+        "userrole": { "id": 1, "user_type": "Bireysel \u00dcyelik" }
+      }
+    },
+    {
+      "id": 6166,
+      "user_id": 21,
+      "expo_id": 53,
+      "hall_id": 11,
+      "booth_id": -1,
+      "time_difference_in_seconds": 80,
+      "socket_id": "KXNkpZAqj_ADjarKAAAR",
+      "visit_start_date": "2021-05-21 13:43:12",
+      "visit_end_date": "2021-05-21 13:44:32",
+      "visitor_type": 1,
+      "country_id": 212,
+      "gender_id": 2,
+      "guest_name": null,
+      "booth": null,
+      "hall": { "id": 11, "name": "DEMO SALONU" },
+      "expo": { "id": 53, "name": "DEMO FUARI" },
+      "user": {
+        "id": 21,
+        "username": "vexpoemre",
+        "userrole_id": 1,
+        "gender_id": 2,
+        "birth_date": null,
+        "userdetail": {
+          "id": 22,
+          "country_id": 212,
+          "user_id": 21,
+          "name": "Emre Emreo\u011flu",
+          "picture": "https://s3.eu-central-1.amazonaws.com/static-content-vexpo/expo/profilecontent/photos/EvV1Ll4x2W8I4bBWU1WT2ODhVHZRGgRuzQR4XVfM.png",
+          "full_institution_name": null,
+          "country": {
+            "countryid": 212,
+            "binarycode": "TR",
+            "countryname": "Turkey"
+          }
+        },
+        "gender": { "id": 2, "type": "Kad\u0131n" },
+        "userrole": { "id": 1, "user_type": "Bireysel \u00dcyelik" }
+      }
+    },
+    {
+      "id": 6252,
+      "user_id": 61,
+      "expo_id": 53,
+      "hall_id": 11,
+      "booth_id": 62,
+      "time_difference_in_seconds": null,
+      "socket_id": "AVlTE4Ws9VS-y6GEAAAF",
+      "visit_start_date": "2021-05-24 10:53:49",
+      "visit_end_date": null,
+      "visitor_type": 2,
+      "country_id": 212,
+      "gender_id": 1,
+      "guest_name": null,
+      "booth": {
+        "id": 62,
+        "name": "Expo",
+        "boothcontent": { "booth_id": 62, "template_positionname": "B1" }
+      },
+      "hall": { "id": 11, "name": "DEMO SALONU" },
+      "expo": { "id": 53, "name": "DEMO FUARI" },
+      "user": {
+        "id": 61,
+        "username": "Yunus",
+        "userrole_id": 1,
+        "gender_id": 1,
+        "birth_date": null,
+        "userdetail": {
+          "id": 59,
+          "country_id": 212,
+          "user_id": 61,
+          "name": "Yunus",
+          "picture": "https://s3.eu-central-1.amazonaws.com/static-content-vexpo/expo/profilecontent/photos/XeanlVICbbw6MuEshYE4gNlBwaisjRwXtZb2xoQT.png",
+          "full_institution_name": null,
+          "country": {
+            "countryid": 212,
+            "binarycode": "TR",
+            "countryname": "Turkey"
+          }
+        },
+        "gender": { "id": 1, "type": "Erkek" },
+        "userrole": { "id": 1, "user_type": "Bireysel \u00dcyelik" }
+      }
+    },
+    {
+      "id": 6310,
+      "user_id": 21,
+      "expo_id": 53,
+      "hall_id": 11,
+      "booth_id": -1,
+      "time_difference_in_seconds": 64,
+      "socket_id": "k2QJ6bvaQdwljxdJAABF",
+      "visit_start_date": "2021-05-24 13:16:24",
+      "visit_end_date": "2021-05-24 13:17:28",
+      "visitor_type": 1,
+      "country_id": 212,
+      "gender_id": 2,
+      "guest_name": null,
+      "booth": null,
+      "hall": { "id": 11, "name": "DEMO SALONU" },
+      "expo": { "id": 53, "name": "DEMO FUARI" },
+      "user": {
+        "id": 21,
+        "username": "vexpoemre",
+        "userrole_id": 1,
+        "gender_id": 2,
+        "birth_date": null,
+        "userdetail": {
+          "id": 22,
+          "country_id": 212,
+          "user_id": 21,
+          "name": "Emre Emreo\u011flu",
+          "picture": "https://s3.eu-central-1.amazonaws.com/static-content-vexpo/expo/profilecontent/photos/EvV1Ll4x2W8I4bBWU1WT2ODhVHZRGgRuzQR4XVfM.png",
+          "full_institution_name": null,
+          "country": {
+            "countryid": 212,
+            "binarycode": "TR",
+            "countryname": "Turkey"
+          }
+        },
+        "gender": { "id": 2, "type": "Kad\u0131n" },
+        "userrole": { "id": 1, "user_type": "Bireysel \u00dcyelik" }
+      }
+    },
+    {
+      "id": 6396,
+      "user_id": 21,
+      "expo_id": 53,
+      "hall_id": 11,
+      "booth_id": 62,
+      "time_difference_in_seconds": null,
+      "socket_id": "M6oL6I4Gf4jWc-KFAABq",
+      "visit_start_date": "2021-05-24 14:54:39",
+      "visit_end_date": null,
+      "visitor_type": 2,
+      "country_id": 212,
+      "gender_id": 2,
+      "guest_name": null,
+      "booth": {
+        "id": 62,
+        "name": "Expo",
+        "boothcontent": { "booth_id": 62, "template_positionname": "B1" }
+      },
+      "hall": { "id": 11, "name": "DEMO SALONU" },
+      "expo": { "id": 53, "name": "DEMO FUARI" },
+      "user": {
+        "id": 21,
+        "username": "vexpoemre",
+        "userrole_id": 1,
+        "gender_id": 2,
+        "birth_date": null,
+        "userdetail": {
+          "id": 22,
+          "country_id": 212,
+          "user_id": 21,
+          "name": "Emre Emreo\u011flu",
+          "picture": "https://s3.eu-central-1.amazonaws.com/static-content-vexpo/expo/profilecontent/photos/EvV1Ll4x2W8I4bBWU1WT2ODhVHZRGgRuzQR4XVfM.png",
+          "full_institution_name": null,
+          "country": {
+            "countryid": 212,
+            "binarycode": "TR",
+            "countryname": "Turkey"
+          }
+        },
+        "gender": { "id": 2, "type": "Kad\u0131n" },
+        "userrole": { "id": 1, "user_type": "Bireysel \u00dcyelik" }
+      }
+    },
+    {
+      "id": 6456,
+      "user_id": 21,
+      "expo_id": 53,
+      "hall_id": 11,
+      "booth_id": -1,
+      "time_difference_in_seconds": 130,
+      "socket_id": "I-orB34bUZGkba_jAACF",
+      "visit_start_date": "2021-05-25 06:59:35",
+      "visit_end_date": "2021-05-25 07:01:45",
+      "visitor_type": 1,
+      "country_id": 212,
+      "gender_id": 2,
+      "guest_name": null,
+      "booth": null,
+      "hall": { "id": 11, "name": "DEMO SALONU" },
+      "expo": { "id": 53, "name": "DEMO FUARI" },
+      "user": {
+        "id": 21,
+        "username": "vexpoemre",
+        "userrole_id": 1,
+        "gender_id": 2,
+        "birth_date": null,
+        "userdetail": {
+          "id": 22,
+          "country_id": 212,
+          "user_id": 21,
+          "name": "Emre Emreo\u011flu",
+          "picture": "https://s3.eu-central-1.amazonaws.com/static-content-vexpo/expo/profilecontent/photos/EvV1Ll4x2W8I4bBWU1WT2ODhVHZRGgRuzQR4XVfM.png",
+          "full_institution_name": null,
+          "country": {
+            "countryid": 212,
+            "binarycode": "TR",
+            "countryname": "Turkey"
+          }
+        },
+        "gender": { "id": 2, "type": "Kad\u0131n" },
+        "userrole": { "id": 1, "user_type": "Bireysel \u00dcyelik" }
+      }
+    },
+    {
+      "id": 6542,
+      "user_id": 61,
+      "expo_id": 53,
+      "hall_id": 11,
+      "booth_id": 62,
+      "time_difference_in_seconds": 82,
+      "socket_id": "0GKVApTvYyRy4zLRAAAI",
+      "visit_start_date": "2021-05-25 08:52:45",
+      "visit_end_date": "2021-05-25 08:54:07",
+      "visitor_type": 2,
+      "country_id": 212,
+      "gender_id": 1,
+      "guest_name": null,
+      "booth": {
+        "id": 62,
+        "name": "Expo",
+        "boothcontent": { "booth_id": 62, "template_positionname": "B1" }
+         },
+      "hall": { "id": 11, "name": "DEMO SALONU" },
+      "expo": { "id": 53, "name": "DEMO FUARI" },
+      "user": {
+        "id": 61,
+        "username": "Yunus",
+        "userrole_id": 1,
+        "gender_id": 1,
+        "birth_date": null,
+        "userdetail": {
+          "id": 59,
+          "country_id": 212,
+          "user_id": 61,
+          "name": "Yunus",
+          "picture": "https://s3.eu-central-1.amazonaws.com/static-content-vexpo/expo/profilecontent/photos/XeanlVICbbw6MuEshYE4gNlBwaisjRwXtZb2xoQT.png",
+          "full_institution_name": null,
+          "country": {
+            "countryid": 212,
+            "binarycode": "TR",
+            "countryname": "Turkey"
+          }
+        },
+        "gender": { "id": 1, "type": "Erkek" },
+        "userrole": { "id": 1, "user_type": "Bireysel \u00dcyelik" }
+      }
+    }
+  ]
+}

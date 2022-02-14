@@ -1,0 +1,100 @@
+{
+  "result": "success",
+  "invoices": [
+    {
+      "id": 71,
+      "user_id": 21,
+      "card_owner": "Emre Atl\u0131",
+      "card_number": null,
+      "amount": "30",
+      "installment": "0",
+      "currency": "978",
+      "result": "Approved",
+      "result_code": "99",
+      "result_3d": "Isyeri kullanim tipi desteklenmiyor.",
+      "result_detail": "Isyeri kullanim tipi desteklenmiyor.",
+      "transc_date": "1",
+      "created_at": "2021-03-16T10:14:37.000000Z",
+      "updated_at": "2021-03-16T10:14:37.000000Z",
+      "deleted_at": null,
+      "order_id": 368,
+      "transaction_id": null,
+      "bank_operation_code": 1000068,
+      "bank_order_code": 8025,
+      "bank_reference_no": 9025,
+      "invoice_serial_number": "A-000025",
+      "invoice_url": "https://s3.eu-central-1.amazonaws.com/static-content-vexpo/expo/cloudfiles/transaction82416aaa8d6111ebadfc3317a8127031.pdf",
+      "invoice_status_id": 2,
+      "user": {
+        "id": 21,
+        "username": "vexpoemre",
+        "userdetail": {
+          "id": 22,
+          "user_id": 21,
+          "name": "Emre Emreo\u011flu",
+          "address": "Karamehmet Mahallesi,Ekrem Bardak\u00e7\u0131 Sokak,No:8,Kat:2",
+          "company_name": "Expo Yaz\u0131l\u0131m",
+          "invoice_taxno": "15555555",
+          "country_id": 212,
+          "full_institution_name": null,
+          "country": {
+            "countryid": 212,
+            "binarycode": "TR",
+            "triplecode": "TUR",
+            "countryname": "Turkey",
+            "phonecode": "90"
+          }
+        }
+      },
+      "order": {
+        "id": 368,
+        "created_at": "2021-03-16T06:45:58.000000Z",
+        "updated_at": "2021-03-16T06:45:58.000000Z",
+        "deleted_at": null,
+        "user_id": 21,
+        "payment_type_id": 2,
+        "total_price": 30,
+        "total_price_tl": 2.69,
+        "total_price_dollar": 0.35,
+        "total_price_gbp": 0.25,
+        "status": false,
+        "orderproducts": [
+          {
+            "id": 191,
+            "order_id": 368,
+            "price_tl": 2.69,
+            "price_gbp": 0.25,
+            "price_dollar": 0.35,
+            "price_id": 105,
+            "orderable_id": 30,
+            "orderable_type": "App\\Models\\Expo",
+            "price_eur": 0.3,
+            "clone": null,
+            "product_name": null,
+            "product_expo_id": null,
+            "type": "expo_add_time",
+            "finished_at": null,
+            "price": {
+              "id": 105,
+              "product_type_id": 3,
+              "no": 1,
+              "days": 3,
+              "code": "1.FR-1.SLN/3D",
+              "price": "300",
+              "price_type": "\u20ac",
+              "month": null
+            }
+          }
+        ],
+        "payment_type": {
+          "id": 2,
+          "name": "Kredi Kart\u0131",
+          "description": "Kredi Kart\u0131 arac\u0131l\u0131\u011f\u0131 ile yap\u0131lan \u00f6deme",
+          "slug": "kredikarti",
+          "for_user": true
+        }
+      }
+    }
+  ],
+  "countInvoices": 1
+}
