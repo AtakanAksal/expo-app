@@ -1,0 +1,890 @@
+{
+    "result": "success",
+    "streams": [
+
+        {
+            "id": 407,
+            "profile_id": 1,
+            "text_content": "test",
+            "created_at": "2021-02-10 12:18:21",
+            "updated_at": "2021-02-10 12:18:21",
+            "deleted_at": null,
+            "document": [],
+            "photo": [
+                "https://s3.eu-central-1.amazonaws.com/static-content-vexpo/expo/profilecontent/photos/72CInlwTHUe0EnaqzW11vD3OWQ8pdm1JriLScJBO.jpg",
+                "https://s3.eu-central-1.amazonaws.com/static-content-vexpo/expo/profilecontent/photos/4N6FlcfJHvPGtwhIXCIiEMD6uKcZUpoOp50AkxaZ.png"
+            ],
+            "video": [],
+            "show": true,
+            "profile": {
+                "id": 1,
+                "user_id": 21,
+                "user": {
+                    "id": 21,
+                    "userdetail": {
+                        "id": 22,
+                        "user_id": 21,
+                        "name": "Emre Emreoğlu",
+                        "picture": "https://s3.eu-central-1.amazonaws.com/static-content-vexpo/expo/profilecontent/photos/EvV1Ll4x2W8I4bBWU1WT2ODhVHZRGgRuzQR4XVfM.png"
+                    }
+                }
+            },
+            "stream_comments": [],
+            "streamlikes": [
+                {
+                    "id": 204,
+                    "likeable_id": 407,
+                    "user_id": 21,
+                    "created_at": "2021-07-14T08:28:45.000000Z",
+                    "user": {
+                        "id": 21,
+                        "username": "vexpoemre",
+                        "userdetail": {
+                            "id": 22,
+                            "user_id": 21,
+                            "name": "Emre Emreoğlu",
+                            "picture": "https://s3.eu-central-1.amazonaws.com/static-content-vexpo/expo/profilecontent/photos/EvV1Ll4x2W8I4bBWU1WT2ODhVHZRGgRuzQR4XVfM.png"
+                        }
+                    }
+                }
+            ]
+        },
+
+
+
+        {
+            "id": 405,
+            "profile_id": 1,
+            "text_content": null,
+            "created_at": "2021-02-10 12:00:21",
+            "updated_at": "2021-02-10 12:18:21",
+            "deleted_at": null,
+            "document": [],
+            "photo": [],
+            "video": [],
+            "show": true,
+            "profile": {
+                "id": 1,
+                "user_id": 21,
+                "user": {
+                    "id": 21,
+                    "userdetail": {
+                        "id": 22,
+                        "user_id": 21,
+                        "name": "Emre Emreoğlu",
+                        "picture": "https://s3.eu-central-1.amazonaws.com/static-content-vexpo/expo/profilecontent/photos/EvV1Ll4x2W8I4bBWU1WT2ODhVHZRGgRuzQR4XVfM.png"
+                    }
+                }
+            },
+            "stream_comments": [],
+            "streamlikes": []
+        },
+
+
+
+
+
+        {
+            "id": 404,
+            "profile_id": 1,
+            "text_content": null,
+            "created_at": "2021-01-30 11:59:47",
+            "updated_at": "2021-01-30 11:59:47",
+            "deleted_at": null,
+            "document": [],
+            "photo": [],
+            "video": [],
+            "show": true,
+            "profile": {
+                "id": 1,
+                "user_id": 21,
+                "user": {
+                    "id": 21,
+                    "userdetail": {
+                        "id": 22,
+                        "user_id": 21,
+                        "name": "Emre Emreoğlu",
+                        "picture": "https://s3.eu-central-1.amazonaws.com/static-content-vexpo/expo/profilecontent/photos/EvV1Ll4x2W8I4bBWU1WT2ODhVHZRGgRuzQR4XVfM.png"
+                    }
+                }
+            },
+            "stream_comments": [],
+            "streamlikes": [
+                {
+                    "id": 78,
+                    "likeable_id": 404,
+                    "user_id": 21,
+                    "created_at": "2021-02-16T11:01:10.000000Z",
+                    "user": {
+                        "id": 21,
+                        "username": "vexpoemre",
+                        "userdetail": {
+                            "id": 22,
+                            "user_id": 21,
+                            "name": "Emre Emreoğlu",
+                            "picture": "https://s3.eu-central-1.amazonaws.com/static-content-vexpo/expo/profilecontent/photos/EvV1Ll4x2W8I4bBWU1WT2ODhVHZRGgRuzQR4XVfM.png"
+                        }
+                    }
+                }
+            ]
+        },
+
+
+
+
+
+        {
+            "id": 402,
+            "profile_id": 1,
+            "text_content": "asd",
+            "created_at": "2021-01-14 12:18:32",
+            "updated_at": "2021-02-08 11:42:05",
+            "deleted_at": null,
+            "document": [],
+            "photo": [],
+            "video": [],
+            "show": false,
+            "profile": {
+                "id": 1,
+                "user_id": 21,
+                "user": {
+                    "id": 21,
+                    "userdetail": {
+                        "id": 22,
+                        "user_id": 21,
+                        "name": "Emre Emreoğlu",
+                        "picture": "https://s3.eu-central-1.amazonaws.com/static-content-vexpo/expo/profilecontent/photos/EvV1Ll4x2W8I4bBWU1WT2ODhVHZRGgRuzQR4XVfM.png"
+                    }
+                }
+            },
+            "stream_comments": [
+                {
+                    "id": 67,
+                    "user_id": 21,
+                    "stream_id": 402,
+                    "text_content": "asdasd",
+                    "created_at": "2021-02-16T11:02:51.000000Z",
+                    "updated_at": "2021-02-16T11:02:51.000000Z",
+                    "deleted_at": null,
+                    "video": null,
+                    "document": null,
+                    "photo": null,
+                    "user": {
+                        "id": 21,
+                        "username": "vexpoemre",
+                        "userdetail": {
+                            "id": 22,
+                            "user_id": 21,
+                            "name": "Emre Emreoğlu",
+                            "picture": "https://s3.eu-central-1.amazonaws.com/static-content-vexpo/expo/profilecontent/photos/EvV1Ll4x2W8I4bBWU1WT2ODhVHZRGgRuzQR4XVfM.png"
+                        }
+                    },
+                    "streamcommentlikes": [
+                        {
+                            "id": 88,
+                            "likeable_id": 67,
+                            "user_id": 21,
+                            "created_at": "2021-02-16T11:02:55.000000Z",
+                            "user": {
+                                "id": 21,
+                                "username": "vexpoemre",
+                                "userdetail": {
+                                    "id": 22,
+                                    "user_id": 21,
+                                    "name": "Emre Emreoğlu",
+                                    "picture": "https://s3.eu-central-1.amazonaws.com/static-content-vexpo/expo/profilecontent/photos/EvV1Ll4x2W8I4bBWU1WT2ODhVHZRGgRuzQR4XVfM.png"
+                                }
+                            }
+                        }
+                    ]
+                }
+            ],
+            "streamlikes": [
+                {
+                    "id": 89,
+                    "likeable_id": 402,
+                    "user_id": 21,
+                    "created_at": "2021-02-16T11:02:58.000000Z",
+                    "user": {
+                        "id": 21,
+                        "username": "vexpoemre",
+                        "userdetail": {
+                            "id": 22,
+                            "user_id": 21,
+                            "name": "Emre Emreoğlu",
+                            "picture": "https://s3.eu-central-1.amazonaws.com/static-content-vexpo/expo/profilecontent/photos/EvV1Ll4x2W8I4bBWU1WT2ODhVHZRGgRuzQR4XVfM.png"
+                        }
+                    }
+                }
+            ]
+        },
+
+
+
+
+
+
+
+
+
+        {
+            "id": 401,
+            "profile_id": 1,
+            "text_content": "asd",
+            "created_at": "2021-01-14 09:41:44",
+            "updated_at": "2021-02-08 10:13:41",
+            "deleted_at": null,
+            "document": [],
+            "photo": [],
+            "video": [],
+            "show": true,
+            "profile": {
+                "id": 1,
+                "user_id": 21,
+                "user": {
+                    "id": 21,
+                    "userdetail": {
+                        "id": 22,
+                        "user_id": 21,
+                        "name": "Emre Emreoğlu",
+                        "picture": "https://s3.eu-central-1.amazonaws.com/static-content-vexpo/expo/profilecontent/photos/EvV1Ll4x2W8I4bBWU1WT2ODhVHZRGgRuzQR4XVfM.png"
+                    }
+                }
+            },
+            "stream_comments": [],
+            "streamlikes": [
+                {
+                    "id": 79,
+                    "likeable_id": 401,
+                    "user_id": 21,
+                    "created_at": "2021-02-16T11:01:13.000000Z",
+                    "user": {
+                        "id": 21,
+                        "username": "vexpoemre",
+                        "userdetail": {
+                            "id": 22,
+                            "user_id": 21,
+                            "name": "Emre Emreoğlu",
+                            "picture": "https://s3.eu-central-1.amazonaws.com/static-content-vexpo/expo/profilecontent/photos/EvV1Ll4x2W8I4bBWU1WT2ODhVHZRGgRuzQR4XVfM.png"
+                        }
+                    }
+                }
+            ]
+        },
+
+
+
+
+
+
+
+        {
+            "id": 399,
+            "profile_id": 1,
+            "text_content": "asd",
+            "created_at": "2021-01-14 07:21:37",
+            "updated_at": "2021-01-14 07:21:37",
+            "deleted_at": null,
+            "document": [],
+            "photo": [],
+            "video": [],
+            "show": true,
+            "profile": {
+                "id": 1,
+                "user_id": 21,
+                "user": {
+                    "id": 21,
+                    "userdetail": {
+                        "id": 22,
+                        "user_id": 21,
+                        "name": "Emre Emreoğlu",
+                        "picture": "https://s3.eu-central-1.amazonaws.com/static-content-vexpo/expo/profilecontent/photos/EvV1Ll4x2W8I4bBWU1WT2ODhVHZRGgRuzQR4XVfM.png"
+                    }
+                }
+            },
+            "stream_comments": [],
+            "streamlikes": [
+                {
+                    "id": 80,
+                    "likeable_id": 399,
+                    "user_id": 21,
+                    "created_at": "2021-02-16T11:01:14.000000Z",
+                    "user": {
+                        "id": 21,
+                        "username": "vexpoemre",
+                        "userdetail": {
+                            "id": 22,
+                            "user_id": 21,
+                            "name": "Emre Emreoğlu",
+                            "picture": "https://s3.eu-central-1.amazonaws.com/static-content-vexpo/expo/profilecontent/photos/EvV1Ll4x2W8I4bBWU1WT2ODhVHZRGgRuzQR4XVfM.png"
+                        }
+                    }
+                }
+            ]
+        },
+
+
+
+
+
+
+
+
+        {
+            "id": 398,
+            "profile_id": 1,
+            "text_content": "asdad",
+            "created_at": "2021-01-14 06:34:30",
+            "updated_at": "2021-02-08 10:13:51",
+            "deleted_at": null,
+            "document": [],
+            "photo": [],
+            "video": [],
+            "show": true,
+            "profile": {
+                "id": 1,
+                "user_id": 21,
+                "user": {
+                    "id": 21,
+                    "userdetail": {
+                        "id": 22,
+                        "user_id": 21,
+                        "name": "Emre Emreoğlu",
+                        "picture": "https://s3.eu-central-1.amazonaws.com/static-content-vexpo/expo/profilecontent/photos/EvV1Ll4x2W8I4bBWU1WT2ODhVHZRGgRuzQR4XVfM.png"
+                    }
+                }
+            },
+            "stream_comments": [],
+            "streamlikes": [
+                {
+                    "id": 81,
+                    "likeable_id": 398,
+                    "user_id": 21,
+                    "created_at": "2021-02-16T11:01:18.000000Z",
+                    "user": {
+                        "id": 21,
+                        "username": "vexpoemre",
+                        "userdetail": {
+                            "id": 22,
+                            "user_id": 21,
+                            "name": "Emre Emreoğlu",
+                            "picture": "https://s3.eu-central-1.amazonaws.com/static-content-vexpo/expo/profilecontent/photos/EvV1Ll4x2W8I4bBWU1WT2ODhVHZRGgRuzQR4XVfM.png"
+                        }
+                    }
+                }
+            ]
+        },
+
+
+
+
+
+
+        {
+            "id": 397,
+            "profile_id": 1,
+            "text_content": "asd",
+            "created_at": "2021-01-13 14:13:29",
+            "updated_at": "2021-01-13 14:13:29",
+            "deleted_at": null,
+            "document": [],
+            "photo": [],
+            "video": [],
+            "show": true,
+            "profile": {
+                "id": 1,
+                "user_id": 21,
+                "user": {
+                    "id": 21,
+                    "userdetail": {
+                        "id": 22,
+                        "user_id": 21,
+                        "name": "Emre Emreoğlu",
+                        "picture": "https://s3.eu-central-1.amazonaws.com/static-content-vexpo/expo/profilecontent/photos/EvV1Ll4x2W8I4bBWU1WT2ODhVHZRGgRuzQR4XVfM.png"
+                    }
+                }
+            },
+            "stream_comments": [],
+            "streamlikes": [
+                {
+                    "id": 82,
+                    "likeable_id": 397,
+                    "user_id": 21,
+                    "created_at": "2021-02-16T11:01:20.000000Z",
+                    "user": {
+                        "id": 21,
+                        "username": "vexpoemre",
+                        "userdetail": {
+                            "id": 22,
+                            "user_id": 21,
+                            "name": "Emre Emreoğlu",
+                            "picture": "https://s3.eu-central-1.amazonaws.com/static-content-vexpo/expo/profilecontent/photos/EvV1Ll4x2W8I4bBWU1WT2ODhVHZRGgRuzQR4XVfM.png"
+                        }
+                    }
+                }
+            ]
+        },
+
+
+
+
+
+
+
+        {
+            "id": 396,
+            "profile_id": 1,
+            "text_content": null,
+            "created_at": "2021-01-05 09:09:33",
+            "updated_at": "2021-01-05 09:09:33",
+            "deleted_at": null,
+            "document": [],
+            "photo": [],
+            "video": [],
+            "show": true,
+            "profile": {
+                "id": 1,
+                "user_id": 21,
+                "user": {
+                    "id": 21,
+                    "userdetail": {
+                        "id": 22,
+                        "user_id": 21,
+                        "name": "Emre Emreoğlu",
+                        "picture": "https://s3.eu-central-1.amazonaws.com/static-content-vexpo/expo/profilecontent/photos/EvV1Ll4x2W8I4bBWU1WT2ODhVHZRGgRuzQR4XVfM.png"
+                    }
+                }
+            },
+            "stream_comments": [],
+            "streamlikes": [
+                {
+                    "id": 83,
+                    "likeable_id": 396,
+                    "user_id": 21,
+                    "created_at": "2021-02-16T11:01:22.000000Z",
+                    "user": {
+                        "id": 21,
+                        "username": "vexpoemre",
+                        "userdetail": {
+                            "id": 22,
+                            "user_id": 21,
+                            "name": "Emre Emreoğlu",
+                            "picture": "https://s3.eu-central-1.amazonaws.com/static-content-vexpo/expo/profilecontent/photos/EvV1Ll4x2W8I4bBWU1WT2ODhVHZRGgRuzQR4XVfM.png"
+                        }
+                    }
+                }
+            ]
+        },
+
+
+
+
+
+
+        {
+            "id": 395,
+            "profile_id": 1,
+            "text_content": null,
+            "created_at": "2021-01-05 08:55:39",
+            "updated_at": "2021-01-05 08:55:39",
+            "deleted_at": null,
+            "document": [],
+            "photo": [],
+            "video": [],
+            "show": true,
+            "profile": {
+                "id": 1,
+                "user_id": 21,
+                "user": {
+                    "id": 21,
+                    "userdetail": {
+                        "id": 22,
+                        "user_id": 21,
+                        "name": "Emre Emreoğlu",
+                        "picture": "https://s3.eu-central-1.amazonaws.com/static-content-vexpo/expo/profilecontent/photos/EvV1Ll4x2W8I4bBWU1WT2ODhVHZRGgRuzQR4XVfM.png"
+                    }
+                }
+            },
+            "stream_comments": [],
+            "streamlikes": [
+                {
+                    "id": 84,
+                    "likeable_id": 395,
+                    "user_id": 21,
+                    "created_at": "2021-02-16T11:01:24.000000Z",
+                    "user": {
+                        "id": 21,
+                        "username": "vexpoemre",
+                        "userdetail": {
+                            "id": 22,
+                            "user_id": 21,
+                            "name": "Emre Emreoğlu",
+                            "picture": "https://s3.eu-central-1.amazonaws.com/static-content-vexpo/expo/profilecontent/photos/EvV1Ll4x2W8I4bBWU1WT2ODhVHZRGgRuzQR4XVfM.png"
+                        }
+                    }
+                }
+            ]
+        }
+
+
+
+
+    ]
+}
+
+
+
+
+ @@@@@22222222  
+
+ {
+    "result": "success",
+    "streams": [
+        {
+            "id": 409,
+            "profile_id": 1,
+            "text_content": "test 1234",
+            "created_at": null,
+            "updated_at": null,
+            "deleted_at": null,
+            "document": [],
+            "photo": [],
+            "video": [],
+            "show": true,
+            "full_institution_name": "Trying to get property 'type' of non-object",
+            "profile": {
+                "id": 1,
+                "user_id": 21,
+                "user": {
+                    "id": 21,
+                    "userrole_id": 1,
+                    "userdetail": {
+                        "id": 22,
+                        "user_id": 21,
+                        "name": "Emre Emreoğlu",
+                        "picture": "https://s3.eu-central-1.amazonaws.com/static-content-vexpo/expo/profilecontent/photos/EvV1Ll4x2W8I4bBWU1WT2ODhVHZRGgRuzQR4XVfM.png",
+                        "country_id": 212,
+                        "country": {
+                            "countryid": 212,
+                            "binarycode": "TR"
+                        }
+                    }
+                }
+            },
+            "stream_comments": [],
+            "streamlikes": []
+        },
+        {
+            "id": 408,
+            "profile_id": 359,
+            "text_content": "test test test",
+            "created_at": null,
+            "updated_at": null,
+            "deleted_at": null,
+            "document": [],
+            "photo": [],
+            "video": [],
+            "show": true,
+            "full_institution_name": "Trying to get property 'type' of non-object",
+            "profile": {
+                "id": 359,
+                "user_id": 1533,
+                "user": {
+                    "id": 1533,
+                    "userrole_id": 2,
+                    "userdetail": {
+                        "id": 351,
+                        "user_id": 1533,
+                        "name": "Alpticaririri",
+                        "picture": null,
+                        "country_id": 106,
+                        "country": {
+                            "countryid": 106,
+                            "binarycode": "JP"
+                        }
+                    }
+                }
+            },
+            "stream_comments": [],
+            "streamlikes": []
+        },
+        {
+            "id": 414,
+            "profile_id": 1,
+            "text_content": "test 1234",
+            "created_at": null,
+            "updated_at": null,
+            "deleted_at": null,
+            "document": [],
+            "photo": [],
+            "video": [],
+            "show": true,
+            "full_institution_name": "Trying to get property 'type' of non-object",
+            "profile": {
+                "id": 1,
+                "user_id": 21,
+                "user": {
+                    "id": 21,
+                    "userrole_id": 1,
+                    "userdetail": {
+                        "id": 22,
+                        "user_id": 21,
+                        "name": "Emre Emreoğlu",
+                        "picture": "https://s3.eu-central-1.amazonaws.com/static-content-vexpo/expo/profilecontent/photos/EvV1Ll4x2W8I4bBWU1WT2ODhVHZRGgRuzQR4XVfM.png",
+                        "country_id": 212,
+                        "country": {
+                            "countryid": 212,
+                            "binarycode": "TR"
+                        }
+                    }
+                }
+            },
+            "stream_comments": [],
+            "streamlikes": []
+        },
+        {
+            "id": 418,
+            "profile_id": 1,
+            "text_content": "Testler",
+            "created_at": null,
+            "updated_at": null,
+            "deleted_at": null,
+            "document": [],
+            "photo": [],
+            "video": [],
+            "show": true,
+            "full_institution_name": "Trying to get property 'type' of non-object",
+            "profile": {
+                "id": 1,
+                "user_id": 21,
+                "user": {
+                    "id": 21,
+                    "userrole_id": 1,
+                    "userdetail": {
+                        "id": 22,
+                        "user_id": 21,
+                        "name": "Emre Emreoğlu",
+                        "picture": "https://s3.eu-central-1.amazonaws.com/static-content-vexpo/expo/profilecontent/photos/EvV1Ll4x2W8I4bBWU1WT2ODhVHZRGgRuzQR4XVfM.png",
+                        "country_id": 212,
+                        "country": {
+                            "countryid": 212,
+                            "binarycode": "TR"
+                        }
+                    }
+                }
+            },
+            "stream_comments": [],
+            "streamlikes": []
+        },
+        {
+            "id": 412,
+            "profile_id": 1,
+            "text_content": "test 1234",
+            "created_at": null,
+            "updated_at": null,
+            "deleted_at": null,
+            "document": [],
+            "photo": [],
+            "video": [],
+            "show": true,
+            "full_institution_name": "Trying to get property 'type' of non-object",
+            "profile": {
+                "id": 1,
+                "user_id": 21,
+                "user": {
+                    "id": 21,
+                    "userrole_id": 1,
+                    "userdetail": {
+                        "id": 22,
+                        "user_id": 21,
+                        "name": "Emre Emreoğlu",
+                        "picture": "https://s3.eu-central-1.amazonaws.com/static-content-vexpo/expo/profilecontent/photos/EvV1Ll4x2W8I4bBWU1WT2ODhVHZRGgRuzQR4XVfM.png",
+                        "country_id": 212,
+                        "country": {
+                            "countryid": 212,
+                            "binarycode": "TR"
+                        }
+                    }
+                }
+            },
+            "stream_comments": [],
+            "streamlikes": []
+        },
+        {
+            "id": 413,
+            "profile_id": 1,
+            "text_content": "test 1234",
+            "created_at": null,
+            "updated_at": null,
+            "deleted_at": null,
+            "document": [],
+            "photo": [],
+            "video": [],
+            "show": true,
+            "full_institution_name": "Trying to get property 'type' of non-object",
+            "profile": {
+                "id": 1,
+                "user_id": 21,
+                "user": {
+                    "id": 21,
+                    "userrole_id": 1,
+                    "userdetail": {
+                        "id": 22,
+                        "user_id": 21,
+                        "name": "Emre Emreoğlu",
+                        "picture": "https://s3.eu-central-1.amazonaws.com/static-content-vexpo/expo/profilecontent/photos/EvV1Ll4x2W8I4bBWU1WT2ODhVHZRGgRuzQR4XVfM.png",
+                        "country_id": 212,
+                        "country": {
+                            "countryid": 212,
+                            "binarycode": "TR"
+                        }
+                    }
+                }
+            },
+            "stream_comments": [],
+            "streamlikes": []
+        },
+        {
+            "id": 411,
+            "profile_id": 1,
+            "text_content": "test 1234",
+            "created_at": null,
+            "updated_at": null,
+            "deleted_at": null,
+            "document": [],
+            "photo": [],
+            "video": [],
+            "show": true,
+            "full_institution_name": "Trying to get property 'type' of non-object",
+            "profile": {
+                "id": 1,
+                "user_id": 21,
+                "user": {
+                    "id": 21,
+                    "userrole_id": 1,
+                    "userdetail": {
+                        "id": 22,
+                        "user_id": 21,
+                        "name": "Emre Emreoğlu",
+                        "picture": "https://s3.eu-central-1.amazonaws.com/static-content-vexpo/expo/profilecontent/photos/EvV1Ll4x2W8I4bBWU1WT2ODhVHZRGgRuzQR4XVfM.png",
+                        "country_id": 212,
+                        "country": {
+                            "countryid": 212,
+                            "binarycode": "TR"
+                        }
+                    }
+                }
+            },
+            "stream_comments": [],
+            "streamlikes": []
+        },
+        {
+            "id": 406,
+            "profile_id": 316,
+            "text_content": "asdasdasd",
+            "created_at": "2021-02-10 12:18:21",
+            "updated_at": "2021-02-10 12:18:21",
+            "deleted_at": null,
+            "document": [],
+            "photo": [],
+            "video": [],
+            "show": true,
+            "full_institution_name": "Trying to get property 'type' of non-object",
+            "profile": {
+                "id": 316,
+                "user_id": 1489,
+                "user": null
+            },
+            "stream_comments": [],
+            "streamlikes": []
+        },
+        {
+            "id": 407,
+            "profile_id": 1,
+            "text_content": "test",
+            "created_at": "2021-02-10 12:18:21",
+            "updated_at": "2021-02-10 12:18:21",
+            "deleted_at": null,
+            "document": [],
+            "photo": [
+                "https://s3.eu-central-1.amazonaws.com/static-content-vexpo/expo/profilecontent/photos/72CInlwTHUe0EnaqzW11vD3OWQ8pdm1JriLScJBO.jpg",
+                "https://s3.eu-central-1.amazonaws.com/static-content-vexpo/expo/profilecontent/photos/4N6FlcfJHvPGtwhIXCIiEMD6uKcZUpoOp50AkxaZ.png"
+            ],
+            "video": [],
+            "show": true,
+            "full_institution_name": "Trying to get property 'type' of non-object",
+            "profile": {
+                "id": 1,
+                "user_id": 21,
+                "user": {
+                    "id": 21,
+                    "userrole_id": 1,
+                    "userdetail": {
+                        "id": 22,
+                        "user_id": 21,
+                        "name": "Emre Emreoğlu",
+                        "picture": "https://s3.eu-central-1.amazonaws.com/static-content-vexpo/expo/profilecontent/photos/EvV1Ll4x2W8I4bBWU1WT2ODhVHZRGgRuzQR4XVfM.png",
+                        "country_id": 212,
+                        "country": {
+                            "countryid": 212,
+                            "binarycode": "TR"
+                        }
+                    }
+                }
+            },
+            "stream_comments": [],
+            "streamlikes": [
+                {
+                    "id": 204,
+                    "likeable_id": 407,
+                    "user_id": 21,
+                    "created_at": "2021-07-14T08:28:45.000000Z",
+                    "user": {
+                        "id": 21,
+                        "username": "vexpoemre",
+                        "userdetail": {
+                            "id": 22,
+                            "user_id": 21,
+                            "name": "Emre Emreoğlu",
+                            "picture": "https://s3.eu-central-1.amazonaws.com/static-content-vexpo/expo/profilecontent/photos/EvV1Ll4x2W8I4bBWU1WT2ODhVHZRGgRuzQR4XVfM.png"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": 405,
+            "profile_id": 1,
+            "text_content": null,
+            "created_at": "2021-02-10 12:00:21",
+            "updated_at": "2021-02-10 12:18:21",
+            "deleted_at": null,
+            "document": [],
+            "photo": [],
+            "video": [],
+            "show": true,
+            "full_institution_name": "Trying to get property 'type' of non-object",
+            "profile": {
+                "id": 1,
+                "user_id": 21,
+                "user": {
+                    "id": 21,
+                    "userrole_id": 1,
+                    "userdetail": {
+                        "id": 22,
+                        "user_id": 21,
+                        "name": "Emre Emreoğlu",
+                        "picture": "https://s3.eu-central-1.amazonaws.com/static-content-vexpo/expo/profilecontent/photos/EvV1Ll4x2W8I4bBWU1WT2ODhVHZRGgRuzQR4XVfM.png",
+                        "country_id": 212,
+                        "country": {
+                            "countryid": 212,
+                            "binarycode": "TR"
+                        }
+                    }
+                }
+            },
+            "stream_comments": [],
+            "streamlikes": []
+        }
+    ]
+}

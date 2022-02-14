@@ -1,0 +1,58 @@
+user-pw = vexpoemre // 123456
+
+// Hatalar
+- Scroll 
+- onPress={Keyboard.dismiss} kontrolü
+- Flatlist optimizasyonları, flatlistler onscroll olduğunda click eventleri bi süre çalışmıyor.
+- UserUpdate0Username (86.satır) user_id dinamik veri olmalı
+- HomeMain Tabbar üzerindeki header onScrollda kaybolmalı
+- FullScreenImageModal.js e image pan/zoom özelliği eklenecek. https://www.npmjs.com/package/react-native-image-zoom-viewer ?
+  sistemin kendi fotoğraf görüntüleyicisi açılabilir... 
+  
+- Ne düşünüyorsun componentindeki user bilgileri statik, user detail çekilecek.
+- Stant menu- Erişim içinde filter modalda ki çoklu giriş option u için, kullanıcı giriş sayıları gerek
+- Dokuman gelen-giden vexdrive dosya görüntüleme sorunu çözülemedi. Farklı dosya formatları için farklı viewlar kullanılacak yada linking yöntemi ile açılacak, linkng olursa "dosyayı kaydet" butonu çalışır mı?
+- Dokuman seçilileri silme yapılmadı. end-point bakılacak.
+- Dokuman Vexdrive farklı dosya formatları görüntüleme linking
+- Dokuman içinde salona git yapılmadı.
+- Gönderi oluştururken dikey çekilen resim ekrana yayılıyor, kötü görüntü.
+- Gönderi oluştururken kıllanıcı adı eklenecek.
+- Diğer hesapta yeni gönderi yapılamadı, dinamik veri kontrolü gerekli.
+- Kullanıcı oturum çıkış yap hata veriyor.
+- Bildirim oluşturma işlemleri end point bağlı değil.
+- Üyelik doğrulama mobil telefona mesaj gelmesi yerine uygulamaya push notification olarak gönderilecek. Email verify ile backendte push notification tetiklenecek 
+- Otherprofile den anasayfaya tıklanınca tab bar stack i olduğu gibi geliyor. Ana sayfaya yönlendirme yapılacak
+
+
+
+
+// Backend
+- streamcommentsin içinde full_institution_name yok, backendden alınacak. CommentsModal.js line 62
+- Stream seçeneklerine yoruma açıp kapatma eklendi. db de stream tablosuna yoruma açık/kapalı column u eklenmeli
+- Kullanıcının stantlarını geçerken json içerisinde hall bilgileri var. Hall bilgilerinin içerisinde ise diğer stantlar tutuluyor. Buda çok fazla veri trafiği demek. kullanıcıya kendi stantlarını göstereciğimizde buna gerek yok.
+- döküman içinde stantları çekerken çok fazla veri trafiği oluyor. sadeleştirilebilir.
+- Bildirim Kullanıcı Güncelleme json içeriği diğerleriyle uyumsuz
+- streamcommentsin içinde full_institution_name yok.
+- http://192.168.1.74:8000/v1/profile/show/ içerisindeki streamler tarih sıralı değil
+- http://192.168.1.74:8000/v1/profile/show/ içerisindeki streamlerde pagination yok
+- Erişim etkileşim gibi içerisinde searh ve ya filter olan paginationlı listeler için yeni search ve filter end pointi gerek.
+
+
+
+
+// Frontend
+- profilimde:
+  - havadurumu detay sayfası yok
+  - döviz içinde takvim iconun için sayfa tasarımı yok
+  - döviz içerisindeki yukarı aşağı ok ne işe yarıyor ?
+  - Profile ve otherprofil içerisindeki qr dinamik değil
+  - Otherprofile den mail gönder butonuna tıklanıldığında NewMailModal.js e user bilgisi otomatik gelmesi gerek
+  - Bildirim davetiyelerdeki logoların id bilgisi var, dinamikleşecek
+  - Stantların rate avaragelarında sorun var gibi gözüküyor. Puanlaın ortalamasını almıyor.
+  - profil şikayet et yapılmadı. engelleme yapılmadı.
+
+- otherprofilde:
+  - otherprofil açıldığında backbotton çalışmıyor (ana stack a dönmüyor - backbuttonhandler uygulanacak)
+  - user code bireysel yerine geçecek ve bayrak tr usercode komponenti ismin altına girecek 
+
+  - StantMain de pager-view kullanılarak geri dönüldüğünde listenn resetlenmesini engellenecek https://github.com/callstack/react-native-pager-view
